@@ -1,6 +1,6 @@
 "# MongoDB-installation-and-Basic-commands." 
 ******************MongoDB Installation (Windows)******************
-1.	Go to the web site https://www.mongodb.com/download-center#community and download .msi file.
+1.	Go to the web site https://www.mongodb.com/download-center/community?tck=docs_server and download .msi file.
 
 2.	Click on downloaded file to install database, you can select any one option from either Custom or Advanced.
 
